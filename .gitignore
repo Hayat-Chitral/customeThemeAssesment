@@ -1,9 +1,12 @@
+# Ignore all files and directories except the 'customtheme' directory
 /*
 
-!.gitignore
 !/wp-content/
 !/wp-content/themes/
-!/wp-content/themes/customtheme
+!/wp-content/themes/customtheme/
 !/wp-content/plugins/
-!/wp-content/plugins/advanced-custom-fields
-!wp-content/plugins/faqs
+!/wp-content/plugins/faqs/
+!/wp-content/plugins/advanced-custom-fields/
+
+# Ignore all other files and directories
+*

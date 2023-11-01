@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+!/wp-content/
+!/wp-content/themes/
+!/wp-content/themes/customtheme
+!/wp-content/plugins/
+!/wp-content/plugins/advanced-custom-fields
+!wp-content/plugins/faqs

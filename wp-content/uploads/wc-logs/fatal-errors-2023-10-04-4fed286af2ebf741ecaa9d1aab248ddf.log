@@ -1,0 +1,225 @@
+2023-10-04T07:39:08+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T07:39:32+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T07:40:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T07:40:06+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T07:40:08+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T07:40:10+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T07:41:09+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T07:41:09+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_post" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T10:13:39+00:00 CRITICAL Uncaught Error: Call to undefined function fetch_custom_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php:100
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(395): display_custom_data('', '', 'custom_data')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[print_form]\n\n\n...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): do_shortcode('[print_form]\n\n\n...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(205): WP_Hook->apply_filters('[print_form]\n\n\n...', Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1864): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(952): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#7 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1188): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#8 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1035): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#9 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(447): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#10 C:\xampp\htdocs\wordpress\wp-includes\rest-api.php(418): WP_REST_Server->serve_request('/wp/v2/pages/32')
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): rest_api_loaded(Object(WP))
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#13 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(779): WP->parse_request('')
+#16 C:\xampp\htdocs\wordpress\wp-includes\functions.php(1335): WP->main('')
+#17 C:\xampp\htdocs\wordpress\wp-blog-header.php(16): wp()
+#18 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#19 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php on line 100
+
+2023-10-04T10:13:48+00:00 CRITICAL Uncaught Error: Call to undefined function fetch_custom_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php:100
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(395): display_custom_data('', '', 'custom_data')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[print_form]\n\n\n...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): do_shortcode('[print_form]\n\n\n...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(205): WP_Hook->apply_filters('[print_form]\n\n\n...', Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1864): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(952): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#7 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1188): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#8 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1035): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#9 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(447): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#10 C:\xampp\htdocs\wordpress\wp-includes\rest-api.php(418): WP_REST_Server->serve_request('/wp/v2/pages/32')
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): rest_api_loaded(Object(WP))
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#13 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(779): WP->parse_request('')
+#16 C:\xampp\htdocs\wordpress\wp-includes\functions.php(1335): WP->main('')
+#17 C:\xampp\htdocs\wordpress\wp-blog-header.php(16): wp()
+#18 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#19 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php on line 100
+
+2023-10-04T10:13:52+00:00 CRITICAL Uncaught Error: Call to undefined function fetch_custom_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php:100
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(395): display_custom_data('', '', 'custom_data')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[print_form]\n\n\n...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): do_shortcode('[print_form]\n\n\n...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(205): WP_Hook->apply_filters('[print_form]\n\n\n...', Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1864): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(952): WP_REST_Posts_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#7 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1188): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#8 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1035): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#9 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(447): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#10 C:\xampp\htdocs\wordpress\wp-includes\rest-api.php(418): WP_REST_Server->serve_request('/wp/v2/pages/32')
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): rest_api_loaded(Object(WP))
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#13 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(779): WP->parse_request('')
+#16 C:\xampp\htdocs\wordpress\wp-includes\functions.php(1335): WP->main('')
+#17 C:\xampp\htdocs\wordpress\wp-blog-header.php(16): wp()
+#18 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#19 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php on line 100
+
+2023-10-04T10:14:29+00:00 CRITICAL Uncaught Error: Call to undefined function fetch_custom_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php:100
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(395): display_custom_data('', '', 'custom_data')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[print_form]\n\n\n...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): do_shortcode('[print_form]\n\n\n...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(205): WP_Hook->apply_filters('[print_form]\n\n\n...', Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(611): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(414): WP_REST_Revisions_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#7 C:\xampp\htdocs\wordpress\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php(249): WP_REST_Autosaves_Controller->prepare_item_for_response(Object(WP_Post), Object(WP_REST_Request))
+#8 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1188): WP_REST_Autosaves_Controller->create_item(Object(WP_REST_Request))
+#9 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1035): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/pages/(?...', Array, NULL)
+#10 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(447): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 C:\xampp\htdocs\wordpress\wp-includes\rest-api.php(418): WP_REST_Server->serve_request('/wp/v2/pages/32...')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): rest_api_loaded(Object(WP))
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#14 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#16 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(779): WP->parse_request('')
+#17 C:\xampp\htdocs\wordpress\wp-includes\functions.php(1335): WP->main('')
+#18 C:\xampp\htdocs\wordpress\wp-blog-header.php(16): wp()
+#19 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#20 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php on line 100
+
+2023-10-04T11:00:42+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "contact_menu_page" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-admin\admin.php(259): do_action('toplevel_page_c...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T11:01:41+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "contact_menu_page" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-admin\admin.php(259): do_action('toplevel_page_c...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T11:02:32+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "contact_menu_page" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:310
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-admin\admin.php(259): do_action('toplevel_page_c...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 310
+
+2023-10-04T11:08:27+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php:83
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): contact_form_shortcode('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(632): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\contact_form\contact_form.php on line 83
+

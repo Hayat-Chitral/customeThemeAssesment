@@ -1,0 +1,32 @@
+body{
+    font-size: 14pt;
+    font-family: Arial;
+}
+.cardimagediv {
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px black;
+}
+
+.cardimagediv img {
+    transition: .4s;
+}
+
+.cardimagediv img:hover {
+    transform: scale(1.1);
+}
+.textoverimage {
+    bottom: 67px;
+    position: relative;
+    color: white !important;
+    cursor: pointer;
+}
+a{
+    color: #fff;
+    text-decoration: none !important;
+}
+#navbarNav a{
+color:#fff !important;}
+#navbarNav .dropdown-menu a{
+color: #000 !important;
+}
